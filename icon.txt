@@ -1,0 +1,8 @@
+This extension needs an icon.png file (64x64 pixels recommended).
+The icon should represent STEM teleportation - perhaps a combination of:
+- A portal or teleportation symbol
+- STEM elements (atom, gears, mathematical symbols, etc.)
+- Minecraft-style pixelated design
+- Green color scheme (#4CAF50) to match the extension color
+
+You can create this icon using any image editor and save it as "icon.png" in this directory.

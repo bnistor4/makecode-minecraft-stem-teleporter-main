@@ -1,0 +1,29 @@
+{
+    "name": "makecode-minecraft-stem-teleporter",
+    "version": "1.0.0",
+    "description": "Un'estensione per il teletrasporto in aree STEM per studenti e insegnanti - A teleportation extension for STEM areas for students and teachers",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "docs/teleport-science.md",
+        "docs/teleport-technology.md",
+        "docs/teleport-engineering.md",
+        "docs/teleport-mathematics.md",
+        "docs/teleport-arts.md",
+        "docs/teacher-teleport-student.md",
+        "docs/teacher-teleport-group.md",
+        "docs/teacher-teleport-all.md",
+        "docs/teacher-teleport-self.md",
+        "docs/set-stem-coordinates.md",
+        "main.ts",
+        "README.md",
+        "icon.png"
+    ],
+    "testFiles": [],
+    "supportedTargets": [
+        "minecraft"
+    ],
+    "preferredEditor": "tsprj",
+    "icon": "icon.png"
+}
